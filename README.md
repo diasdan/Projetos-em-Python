@@ -23,5 +23,13 @@ Python - Digital Innovation One)
              octalConverter() - octal to decimal converter
  
  - Caesar Decoder/Encoder: two functions to decode and encode Caesar Cipher codes. Usefull in CTFs.
+  
+# OSINT com Python
  
- 
+## YouCanFindIt
+
+Ferramenta simples de OSINT que retorna resultados de busca para um termo qualquer que pode ser um nome, um número, um endereço, etc.
+
+## Verificador de Telefone
+
+Verificador simples de telefones
