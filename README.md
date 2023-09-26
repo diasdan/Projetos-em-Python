@@ -2,6 +2,12 @@
 
 Alguns dos meus códigos e módulos em Python:
 
+ - Visualizador CFOP: Ferramenta contábil para a pesquisa e consulta de CFOPs para a emissão de notas fiscais.
+
+ - Assistente de Leitura Dinâmica: um script simples feito para rodar em CLI no qual é possível ler um texto palavra por palavra em um determinado tempo, 
+ sendo uma ferramenta para o treinamento de leitura dinâmica. 
+
+ - ModeloUI: Um modelo para projetos com interface gráfica Tkinter.
 
  - Python Security: projetos feitos para o as aulas de segurança em Python (Segurança da informação com
 Python - Digital Innovation One)
@@ -12,9 +18,7 @@ Python - Digital Innovation One)
  - Caesar Decoder/Encoder: duas funções para codificar e decodificar strings cifrados com a cifra de César. Útil em CTFs. 
 
 
-
  Some of my python codes and modules:
-
 
  - Python Security: projects made for Python Security classes (Segurança da informação com
 Python - Digital Innovation One)
