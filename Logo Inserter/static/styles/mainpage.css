@@ -1,0 +1,76 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(22, 22, 22);
+    color: white;
+    text-align: center;
+}
+
+header {
+    margin: 5%;
+    text-align: center;
+}
+
+header > h1 {
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#wrapper {
+    text-align: center;
+}
+
+form {
+    color: black;
+    padding: 10px;
+    margin-top: 2%;
+    display: inline-block;
+    text-align: left;
+    border-radius: 10px;
+    background-color: rgb(194, 194, 194);
+    box-shadow: 0 0  10px rgb(255, 255, 255);
+}
+
+input {
+    margin-top: 2%;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+}
+
+button {
+    padding: 5px;
+    background-color: rgba(0, 0, 0, 0.682);
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
+
+.file {
+    background-color: gray;
+    width: fit-content;
+}
+
+footer {
+    box-shadow: 0 0 5px rgba(255, 255, 255, 0.105);
+    width: 99%;
+    bottom: 0;
+    position: absolute;
+    display: block;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 4px;
+}
+
+footer > img {
+    width: 40px;
+}
+
+#output_msg {
+    margin-top: 10%;
+}

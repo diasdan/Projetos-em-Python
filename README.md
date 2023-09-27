@@ -4,6 +4,8 @@ Alguns dos meus códigos e módulos em Python:
 
  - Visualizador CFOP: Ferramenta contábil para a pesquisa e consulta de CFOPs para a emissão de notas fiscais.
 
+- Logo Inserter: Script em Flask para adicionar um Logo em todas as imagens de um diretório (ideal para imobiliárias).
+
  - Assistente de Leitura Dinâmica: um script simples feito para rodar em CLI no qual é possível ler um texto palavra por palavra em um determinado tempo, 
  sendo uma ferramenta para o treinamento de leitura dinâmica. 
 

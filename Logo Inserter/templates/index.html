@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/mainpage.css') }}">
+
+<title>Insert Logo in Images</title>
+</head>
+<body>
+
+<header>
+  <h1>InsertLogo</h1>
+</header>
+
+<div id="wrapper">
+  
+  <form action="/" method="post" enctype="multipart/form-data">
+    <label for="logo">Select the logo image:</label>
+    <input class="file" type="file" name="logo" id="logo" accept="image/*"><br>
+  
+    <label for="images">Select multiple images:</label>
+    <input class="file" type="file" name="images[]" id="images" multiple accept="image/*"><br>
+  
+    <label for="output_folder">Enter output folder location:</label>
+    <input type="" name="output_folder" id="output_folder"><br>
+  
+    <button type="submit">Process and Insert</button>
+  </form>
+</div>
+
+<footer>
+  <p>Made by Danilo Dias</p>
+  <img src="../static/img/myicon.webp" alt="">
+</footer>
+
+</body>
+</html>
